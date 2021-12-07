@@ -1,0 +1,16 @@
+/home/damilare/Desktop/works/eventDelegate/bin/Debug/net5.0/eventDelegate
+/home/damilare/Desktop/works/eventDelegate/bin/Debug/net5.0/eventDelegate.deps.json
+/home/damilare/Desktop/works/eventDelegate/bin/Debug/net5.0/eventDelegate.runtimeconfig.json
+/home/damilare/Desktop/works/eventDelegate/bin/Debug/net5.0/eventDelegate.runtimeconfig.dev.json
+/home/damilare/Desktop/works/eventDelegate/bin/Debug/net5.0/eventDelegate.dll
+/home/damilare/Desktop/works/eventDelegate/bin/Debug/net5.0/ref/eventDelegate.dll
+/home/damilare/Desktop/works/eventDelegate/bin/Debug/net5.0/eventDelegate.pdb
+/home/damilare/Desktop/works/eventDelegate/obj/Debug/net5.0/eventDelegate.csproj.AssemblyReference.cache
+/home/damilare/Desktop/works/eventDelegate/obj/Debug/net5.0/eventDelegate.GeneratedMSBuildEditorConfig.editorconfig
+/home/damilare/Desktop/works/eventDelegate/obj/Debug/net5.0/eventDelegate.AssemblyInfoInputs.cache
+/home/damilare/Desktop/works/eventDelegate/obj/Debug/net5.0/eventDelegate.AssemblyInfo.cs
+/home/damilare/Desktop/works/eventDelegate/obj/Debug/net5.0/eventDelegate.csproj.CoreCompileInputs.cache
+/home/damilare/Desktop/works/eventDelegate/obj/Debug/net5.0/eventDelegate.dll
+/home/damilare/Desktop/works/eventDelegate/obj/Debug/net5.0/ref/eventDelegate.dll
+/home/damilare/Desktop/works/eventDelegate/obj/Debug/net5.0/eventDelegate.pdb
+/home/damilare/Desktop/works/eventDelegate/obj/Debug/net5.0/eventDelegate.genruntimeconfig.cache
